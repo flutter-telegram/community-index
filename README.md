@@ -8,6 +8,7 @@
 | [@rudart](https://t.me/rudart)            | Russian    |
 | [FlutterIndia](https://t.me/flutterIndia) | Indian     |
 | [Vietnamese](https://t.me/fluttervietnam) | Vietnamese |
+| [Flutter 中文交流](https://t.me/FlutterC)  | Chinese    |
 
 ### Telegram channels
 | link                                       | language |
