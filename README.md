@@ -9,6 +9,7 @@
 | [FlutterIndia](https://t.me/flutterIndia) | Indian     |
 | [Vietnamese](https://t.me/fluttervietnam) | Vietnamese |
 | [Flutter 中文交流](https://t.me/FlutterC)  | Chinese    |
+[Flutter - Dart en Español](https://t.me/flutter_dart_spanish)  | Spanish   |
 
 ### Telegram channels
 | link                                       | language |
