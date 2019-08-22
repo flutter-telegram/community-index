@@ -9,7 +9,8 @@
 | [FlutterIndia](https://t.me/flutterIndia) | Indian     |
 | [Vietnamese](https://t.me/fluttervietnam) | Vietnamese |
 | [Flutter 中文交流](https://t.me/FlutterC)  | Chinese    |
-[Flutter - Dart en Español](https://t.me/flutter_dart_spanish)  | Spanish   |
+| [Flutter Turkey](https://t.me/Fluttertr)  | Turkish    |
+| [Flutter - Dart en Español](https://t.me/flutter_dart_spanish)  | Spanish   |
 
 ### Telegram channels
 | link                                       | language |
@@ -25,5 +26,5 @@
 ### Discord
 | link                                  | language |
 |---------------------------------------|----------|
-| [discord](https://discord.gg/uJn4gJ8) | English  |
+| [Discord](https://discord.gg/uJn4gJ8) | English  |
 
