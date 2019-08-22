@@ -17,11 +17,13 @@
 |--------------------------------------------|----------|
 | [@flutterdev](https://t.me/flutterdev)     | English  |
 | [@flutterdaily](https://t.me/flutterdaily) | Russian  |
+| [@flutterturk](https://t.me/flutterturk)   | Turkish  |
 
 ### Slack
 | link                                                            | language |
 |-----------------------------------------------------------------|----------|
 | [Slack Workspace](https://dev-flutter-autoinvite.herokuapp.com) | English  |
+| [Slack Workspace](https://bit.ly/flutterturkiye)                | Turkish  |
 
 ### Discord
 | link                                  | language |
