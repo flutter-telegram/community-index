@@ -11,6 +11,7 @@
 | [Flutter 中文交流](https://t.me/FlutterC)  | Chinese    |
 | [Flutter Turkey](https://t.me/Fluttertr)  | Turkish    |
 | [Flutter - Dart en Español](https://t.me/flutter_dart_spanish)  | Spanish   |
+| [Flutter Indonesia](https://t.me/flutter_id)  | Indonesia  |
 
 ### Telegram channels
 | link                                       | language |
