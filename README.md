@@ -20,7 +20,7 @@
 | [@flutterdaily](https://t.me/flutterdaily) | Russian  |
 | [@flutterturk](https://t.me/flutterturk)   | Turkish  |
 | [@FlutterResources](https://t.me/flutter_resources) | Russian |
-| [@FlutterResourcesEN](https://t.me/flutter_resources_en) | Russian |
+| [@FlutterResourcesEN](https://t.me/flutter_resources_en) | English |
 
 ### Slack
 | link                                                            | language |
