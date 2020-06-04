@@ -13,6 +13,7 @@
 | [Flutter - Dart en Español](https://t.me/flutter_dart_spanish)  | Spanish   |
 | [Flutter Indonesia](https://t.me/flutter_id)  | Indonesia  |
 | [Flutter / Dart Czechia](https://t.me/flutter_cz)  | English\Czech  |
+| [Flutter Kerala](https://t.me/flutterkeralaofficial) | English\Malayalam |
 
 ### Telegram channels
 | link                                       | language |
@@ -22,6 +23,7 @@
 | [@flutterturk](https://t.me/flutterturk)   | Turkish  |
 | [@FlutterResources](https://t.me/flutter_resources) | Russian |
 | [@FlutterResourcesEN](https://t.me/flutter_resources_en) | English |
+| [@FlutterKeralaUpdates](https://t.me/FlutterKeralaUpdates) | English\Malayalam |
 
 ### Slack
 | link                                                            | language |
@@ -33,4 +35,5 @@
 | link                                  | language |
 |---------------------------------------|----------|
 | [Discord](https://discord.gg/uJn4gJ8) | English  |
+| [Flutter Kerala Discord](https://discord.gg/TR87ek) | English\Malayalam |
 
