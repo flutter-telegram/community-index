@@ -18,6 +18,7 @@
 ### Telegram channels
 | link                                       | language |
 |--------------------------------------------|----------|
+| [@Flutter_Updates](https://t.me/flutter_updates) | English  |
 | [@flutterdev](https://t.me/flutterdev)     | English  |
 | [@flutterdaily](https://t.me/flutterdaily) | Russian  |
 | [@flutterturk](https://t.me/flutterturk)   | Turkish  |
