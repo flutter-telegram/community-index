@@ -2,6 +2,7 @@
 | link                                      | language   |
 |-------------------------------------------|------------|
 | [Main Group](https://t.me/dartlang_group) | English    |
+| [Flutter & Dart](https://t.me/flutter_developers_disscussion) | English    |
 | [@dartbrasil](https://t.me/dartbrasil)    | Brazilian  |
 | [@flutterIT](https://t.me/flutterIT)      | Italian    |
 | [@flutter_rus](https://t.me/flutter_rus)  | Russian    |
